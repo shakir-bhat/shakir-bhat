@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# I am Sharkir
+# I am Shakir
 
 ## About Me
 
-I'm Sharkir Ahmad Bhat, a passionate developer committed to creating innovative solutions. I strive to stay updated with the latest technologies, always eager to contribute to meaningful projects.
+I'm Shakir Ahmad Bhat, a passionate developer committed to creating innovative solutions. I strive to stay updated with the latest technologies, always eager to contribute to meaningful projects.
 
 
 
