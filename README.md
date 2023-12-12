@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I am Sharkir
+
+## About Me
+
+I'm Sharkir Ahmad Bhat, a passionate developer committed to creating innovative solutions. I strive to stay updated with the latest technologies, always eager to contribute to meaningful projects.
+
+
+
+## Skills
+
+- Languages: HTML/CSS, Javascript, Java, C
+- Frameworks: Bootstrap , React
+- Tools: Vscode , Github/Git, Cloud EC2
+
+
+Thanks for visiting my GitHub! Let's connect and code together!
